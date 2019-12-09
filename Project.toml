@@ -1,0 +1,13 @@
+name = "TestGtkMegaJLL"
+uuid = "05f542c5-fd2e-4f6f-a354-1fd7cae9a8d6"
+authors = ["Mosè Giordano"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
